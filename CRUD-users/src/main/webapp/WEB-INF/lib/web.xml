@@ -1,0 +1,3 @@
+<listener>
+    <listener-class>org.h2.server.web.DbStarter</listener-class>
+</listener>
